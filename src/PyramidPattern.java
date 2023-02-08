@@ -4,15 +4,15 @@ public class PyramidPattern {
          int m;
         for(int i=1;i<=rows;i++){
             for(int space=1;space<=rows-i;space++){
-                System.out.print(" ");
+                System.out.print("  ");
             }
             for(int j=i;j<i*2;j++){
-                System.out.print(j);
+                System.out.print(" "+j);
 
             }
             m=(i*2)-1;
             for(int k=1 ;k<=i-1;k++){
-                System.out.print(--m);
+                System.out.print(" "+--m);
             }
 
 
