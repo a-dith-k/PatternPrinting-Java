@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efd64832-f809-417f-9c8a-a74ab01398e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PatternPrinting.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DiamondPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PyramidPattern.java" afterDir="false" />
+    <list default="true" id="efd64832-f809-417f-9c8a-a74ab01398e6" name="Changes" comment="pyramid pattern updated">
+      <change afterPath="$PROJECT_DIR$/src/StarDiamondPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VerticalNmberPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VerticalPyramidInverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VerticalStarPyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,28 +32,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.NumberPattern">
-    <configuration name="DiamondPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DiamondPattern" />
-      <module name="PatternPrinting" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumberPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberPattern" />
-      <module name="PatternPrinting" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}</component>
+  <component name="RunManager" selected="Application.VerticalStarPyramid">
     <configuration name="PyramidPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PyramidPattern" />
       <module name="PatternPrinting" />
@@ -65,11 +47,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StarDiamondPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StarDiamondPattern" />
+      <module name="PatternPrinting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerticalNmberPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VerticalNmberPyramid" />
+      <module name="PatternPrinting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerticalPyramidInverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VerticalPyramidInverse" />
+      <module name="PatternPrinting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerticalStarPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VerticalStarPyramid" />
+      <module name="PatternPrinting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NumberPattern" />
+        <item itemvalue="Application.VerticalStarPyramid" />
+        <item itemvalue="Application.StarDiamondPattern" />
+        <item itemvalue="Application.VerticalPyramidInverse" />
+        <item itemvalue="Application.VerticalNmberPyramid" />
         <item itemvalue="Application.PyramidPattern" />
-        <item itemvalue="Application.DiamondPattern" />
       </list>
     </recent_temporary>
   </component>
@@ -81,8 +93,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675859312802</updated>
-      <workItem from="1675859314483" duration="15507000" />
+      <workItem from="1675859314483" duration="16587000" />
+      <workItem from="1675923570957" duration="5408000" />
     </task>
+    <task id="LOCAL-00001" summary="3 types of patterns completed">
+      <created>1675887083094</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675887083094</updated>
+    </task>
+    <task id="LOCAL-00002" summary="pyramid pattern updated">
+      <created>1675887833114</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675887833114</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,5 +126,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="3 types of patterns completed" />
+    <MESSAGE value="pyramid pattern updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="pyramid pattern updated" />
   </component>
 </project>
