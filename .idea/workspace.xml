@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efd64832-f809-417f-9c8a-a74ab01398e6" name="Changes" comment="four new patterns added">
-      <change afterPath="$PROJECT_DIR$/src/HollowStarDiamondPattern.java" afterDir="false" />
+    <list default="true" id="efd64832-f809-417f-9c8a-a74ab01398e6" name="Changes" comment="HollowStarDiamondPattern added">
+      <change afterPath="$PROJECT_DIR$/src/HollowStarTriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HollowStarDiamondPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HollowStarDiamondPattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,15 +45,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StarDiamondPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StarDiamondPattern" />
+    <configuration name="HollowStarTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HollowStarTriangle" />
       <module name="PatternPrinting" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VerticalNmberPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VerticalNmberPyramid" />
+    <configuration name="StarDiamondPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StarDiamondPattern" />
       <module name="PatternPrinting" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,10 +76,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.HollowStarDiamondPattern" />
+        <item itemvalue="Application.HollowStarTriangle" />
         <item itemvalue="Application.VerticalStarPyramid" />
         <item itemvalue="Application.StarDiamondPattern" />
         <item itemvalue="Application.VerticalPyramidInverse" />
-        <item itemvalue="Application.VerticalNmberPyramid" />
       </list>
     </recent_temporary>
   </component>
@@ -91,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675859312802</updated>
       <workItem from="1675859314483" duration="16587000" />
-      <workItem from="1675923570957" duration="12153000" />
+      <workItem from="1675923570957" duration="18228000" />
     </task>
     <task id="LOCAL-00001" summary="3 types of patterns completed">
       <created>1675887083094</created>
@@ -114,7 +115,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675929682139</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="HollowStarDiamondPattern added">
+      <created>1675941100067</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675941100067</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +155,7 @@
     <MESSAGE value="3 types of patterns completed" />
     <MESSAGE value="pyramid pattern updated" />
     <MESSAGE value="four new patterns added" />
-    <option name="LAST_COMMIT_MESSAGE" value="four new patterns added" />
+    <MESSAGE value="HollowStarDiamondPattern added" />
+    <option name="LAST_COMMIT_MESSAGE" value="HollowStarDiamondPattern added" />
   </component>
 </project>

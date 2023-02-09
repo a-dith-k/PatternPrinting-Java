@@ -22,7 +22,7 @@ public class HollowStarDiamondPattern {
 
 
         }
-         ctrl=rows;
+         ctrl=ctrl-4;
         for(int i=1;i<rows;i++){
             for(int space=1;space<=i;space++){
                 System.out.print(" ");
@@ -38,15 +38,15 @@ public class HollowStarDiamondPattern {
 
 
             System.out.println();
-
-
         }
+
 
     }
 
+
     public static void main(String[] args) {
 
-        printPattern(5);
+        printPattern(10);
 
     }
 
