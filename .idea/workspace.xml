@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efd64832-f809-417f-9c8a-a74ab01398e6" name="Changes" comment="HollowStarDiamondPattern modified">
-      <change afterPath="$PROJECT_DIR$/src/StarTriangle.java" afterDir="false" />
+    <list default="true" id="efd64832-f809-417f-9c8a-a74ab01398e6" name="Changes" comment="StarTriangle pattern Added">
+      <change afterPath="$PROJECT_DIR$/src/CharacterHalfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharacterHalfPyramid2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharacterHalfPyramid3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharacterInvertedHalfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharacterPyramidPattern4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HollowStarTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HollowStarTriangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,37 +40,42 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StarTriangle">
-    <configuration name="HollowStarDiamondPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HollowStarDiamondPattern" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Adith K\IdeaProjects\PatternPrinting\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CharacterPyramidPattern4">
+    <configuration name="CharacterHalfPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharacterHalfPyramid" />
       <module name="PatternPrinting" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HollowStarTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HollowStarTriangle" />
+    <configuration name="CharacterHalfPyramid2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharacterHalfPyramid2" />
       <module name="PatternPrinting" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StarDiamondPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StarDiamondPattern" />
+    <configuration name="CharacterHalfPyramid3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharacterHalfPyramid3" />
       <module name="PatternPrinting" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StarTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StarTriangle" />
+    <configuration name="CharacterInvertedHalfPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharacterInvertedHalfPyramid" />
       <module name="PatternPrinting" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VerticalStarPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VerticalStarPyramid" />
+    <configuration name="CharacterPyramidPattern4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharacterPyramidPattern4" />
       <module name="PatternPrinting" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +83,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StarTriangle" />
-        <item itemvalue="Application.HollowStarTriangle" />
-        <item itemvalue="Application.HollowStarDiamondPattern" />
-        <item itemvalue="Application.VerticalStarPyramid" />
-        <item itemvalue="Application.StarDiamondPattern" />
+        <item itemvalue="Application.CharacterPyramidPattern4" />
+        <item itemvalue="Application.CharacterHalfPyramid3" />
+        <item itemvalue="Application.CharacterHalfPyramid2" />
+        <item itemvalue="Application.CharacterHalfPyramid" />
+        <item itemvalue="Application.CharacterInvertedHalfPyramid" />
       </list>
     </recent_temporary>
   </component>
@@ -93,7 +101,7 @@
       <updated>1675859312802</updated>
       <workItem from="1675859314483" duration="16587000" />
       <workItem from="1675923570957" duration="19669000" />
-      <workItem from="1676005444000" duration="5847000" />
+      <workItem from="1676005444000" duration="16067000" />
     </task>
     <task id="LOCAL-00001" summary="3 types of patterns completed">
       <created>1675887083094</created>
@@ -130,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675963970364</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="StarTriangle pattern Added">
+      <created>1676012613687</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676012613687</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +180,7 @@
     <MESSAGE value="four new patterns added" />
     <MESSAGE value="HollowStarDiamondPattern added" />
     <MESSAGE value="HollowStarDiamondPattern modified" />
-    <option name="LAST_COMMIT_MESSAGE" value="HollowStarDiamondPattern modified" />
+    <MESSAGE value="StarTriangle pattern Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="StarTriangle pattern Added" />
   </component>
 </project>
