@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efd64832-f809-417f-9c8a-a74ab01398e6" name="Changes" comment="HollowStarDiamondPattern added">
-      <change afterPath="$PROJECT_DIR$/src/HollowStarTriangle.java" afterDir="false" />
+    <list default="true" id="efd64832-f809-417f-9c8a-a74ab01398e6" name="Changes" comment="HollowStarDiamondPattern modified">
+      <change afterPath="$PROJECT_DIR$/src/StarTriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HollowStarDiamondPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HollowStarDiamondPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HollowStarTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HollowStarTriangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HollowStarDiamondPattern">
+  <component name="RunManager" selected="Application.StarTriangle">
     <configuration name="HollowStarDiamondPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HollowStarDiamondPattern" />
       <module name="PatternPrinting" />
@@ -59,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VerticalPyramidInverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VerticalPyramidInverse" />
+    <configuration name="StarTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StarTriangle" />
       <module name="PatternPrinting" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HollowStarDiamondPattern" />
+        <item itemvalue="Application.StarTriangle" />
         <item itemvalue="Application.HollowStarTriangle" />
+        <item itemvalue="Application.HollowStarDiamondPattern" />
         <item itemvalue="Application.VerticalStarPyramid" />
         <item itemvalue="Application.StarDiamondPattern" />
-        <item itemvalue="Application.VerticalPyramidInverse" />
       </list>
     </recent_temporary>
   </component>
@@ -92,7 +92,8 @@
       <option name="presentableId" value="Default" />
       <updated>1675859312802</updated>
       <workItem from="1675859314483" duration="16587000" />
-      <workItem from="1675923570957" duration="18228000" />
+      <workItem from="1675923570957" duration="19669000" />
+      <workItem from="1676005444000" duration="5847000" />
     </task>
     <task id="LOCAL-00001" summary="3 types of patterns completed">
       <created>1675887083094</created>
@@ -122,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675941100067</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="HollowStarDiamondPattern modified">
+      <created>1675963970364</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675963970364</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +164,7 @@
     <MESSAGE value="pyramid pattern updated" />
     <MESSAGE value="four new patterns added" />
     <MESSAGE value="HollowStarDiamondPattern added" />
-    <option name="LAST_COMMIT_MESSAGE" value="HollowStarDiamondPattern added" />
+    <MESSAGE value="HollowStarDiamondPattern modified" />
+    <option name="LAST_COMMIT_MESSAGE" value="HollowStarDiamondPattern modified" />
   </component>
 </project>
