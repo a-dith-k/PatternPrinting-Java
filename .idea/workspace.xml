@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efd64832-f809-417f-9c8a-a74ab01398e6" name="Changes" comment="StarTriangle pattern Added">
-      <change afterPath="$PROJECT_DIR$/src/CharacterHalfPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharacterHalfPyramid2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharacterHalfPyramid3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharacterInvertedHalfPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharacterPyramidPattern4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="efd64832-f809-417f-9c8a-a74ab01398e6" name="Changes" comment="Differnet types of patterns solved" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,7 +94,7 @@
       <updated>1675859312802</updated>
       <workItem from="1675859314483" duration="16587000" />
       <workItem from="1675923570957" duration="19669000" />
-      <workItem from="1676005444000" duration="16067000" />
+      <workItem from="1676005444000" duration="16416000" />
     </task>
     <task id="LOCAL-00001" summary="3 types of patterns completed">
       <created>1675887083094</created>
@@ -145,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676012613687</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Differnet types of patterns solved">
+      <created>1676030659919</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676030659919</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +181,7 @@
     <MESSAGE value="HollowStarDiamondPattern added" />
     <MESSAGE value="HollowStarDiamondPattern modified" />
     <MESSAGE value="StarTriangle pattern Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="StarTriangle pattern Added" />
+    <MESSAGE value="Differnet types of patterns solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Differnet types of patterns solved" />
   </component>
 </project>
